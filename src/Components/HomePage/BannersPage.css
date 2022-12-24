@@ -1,0 +1,23 @@
+.bannner{
+    /* background:  url('../../Asserts/homebanner.png') no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%; */
+    /* background-attachment: fixed; */
+    /* background-size: cover; */
+    /* position: relative; */
+}
+.appleButtn{
+    position: relative;
+    max-width: 100%;
+    width: 13.7rem;
+    height: 4rem;
+    bottom: 20%;
+    left: 50%;
+}
+.text-block {
+    position: absolute;
+    top: 120%;
+    left: 56%;
+    transform: translate(-50%, -50%);
+    }

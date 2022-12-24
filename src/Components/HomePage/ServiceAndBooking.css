@@ -1,0 +1,22 @@
+.OneStopSolution{
+    color: blue;
+}
+.service{
+    display: flex;
+    justify-content: center;
+}
+.serviceSmall{
+    color: blue;
+    /* font-size: 12x; */
+    /* display: block; */
+}
+.arrow{
+    display: flex;
+    /* margin-bottom: 100px; */
+    justify-content: center;
+    /* flex-direction: column; */
+    align-items: center;
+}
+.arrow-img{
+    margin-bottom: 90px;
+}

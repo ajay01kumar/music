@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0445b56a.css",
+    "main.js": "/static/js/main.ff72eb38.js",
+    "static/js/787.d1e7a34f.chunk.js": "/static/js/787.d1e7a34f.chunk.js",
+    "static/media/homebanner.png": "/static/media/homebanner.05a69f5572f39bb2db74.png",
+    "static/media/partner_banner.png": "/static/media/partner_banner.5ef33e0525b70b4bd6a8.png",
+    "static/media/findshopsbackground.png": "/static/media/findshopsbackground.9a38add6e40bf6c79337.png",
+    "static/media/fixNow_Web-1.png": "/static/media/fixNow_Web-1.b53c8e9dab5fd531a67f.png",
+    "static/media/joinwishlist background.png": "/static/media/joinwishlist background.ee92da52abb676d136ca.png",
+    "static/media/drivemore.png": "/static/media/drivemore.4da8219e85d66f11faf9.png",
+    "static/media/selectshop.png": "/static/media/selectshop.9dd5075e610936110a89.png",
+    "static/media/sendrealtimeupdate.png": "/static/media/sendrealtimeupdate.f1d950dc33e0f12f9795.png",
+    "static/media/selectservice.png": "/static/media/selectservice.70e825792b204a8ff674.png",
+    "static/media/easytoshedule.png": "/static/media/easytoshedule.bfe3c03d40fdc6b4f39c.png",
+    "static/media/usefixnowapp.png": "/static/media/usefixnowapp.b04c686c4dc703a6ecdd.png",
+    "static/media/realtimeupdates.png": "/static/media/realtimeupdates.8474e7485ea35da43b47.png",
+    "static/media/bookappointment.png": "/static/media/bookappointment.2171adadc18aa44317f4.png",
+    "static/media/becomeapartner.png": "/static/media/becomeapartner.ec1ed2dac949e9c3a9a3.png",
+    "static/media/exploreservice.png": "/static/media/exploreservice.b8544828d8f3a6da52d4.png",
+    "static/media/logFixNow.jpeg": "/static/media/logFixNow.fbdd3f6e0c807e749c31.jpeg",
+    "static/media/insta_B.png": "/static/media/insta_B.284781315fc9283cf454.png",
+    "static/media/twitter_B.png": "/static/media/twitter_B.f056bd936d96dfab7d21.png",
+    "static/media/3.png": "/static/media/3.d02d59d9689738dd4059.png",
+    "static/media/youtube_B.png": "/static/media/youtube_B.a69e92665ef2e3ef32e8.png",
+    "static/media/linkedin_B.png": "/static/media/linkedin_B.bc8e91e483ad94bb11f8.png",
+    "static/media/2.png": "/static/media/2.aaa848a48bf42c6467db.png",
+    "static/media/facebook_B.png": "/static/media/facebook_B.cd3c39181ebc5f74dbdf.png",
+    "index.html": "/index.html",
+    "main.0445b56a.css.map": "/static/css/main.0445b56a.css.map",
+    "main.ff72eb38.js.map": "/static/js/main.ff72eb38.js.map",
+    "787.d1e7a34f.chunk.js.map": "/static/js/787.d1e7a34f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0445b56a.css",
+    "static/js/main.ff72eb38.js"
+  ]
+}

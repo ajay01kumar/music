@@ -1,0 +1,27 @@
+
+.container{
+        position: relative;
+        text-align: center;
+        /* color: rgb(184, 34, 34); */
+}
+.centered {
+        position: absolute;
+        top: 50%;
+        left: 25%;
+        right:20%;
+        transform: translate(-50%, -50%);
+}
+.letsGetStarted{
+        color: blue;
+}
+.containerFindshopsbackground{
+        position: relative;
+        text-align: center;   
+}
+.centeredFindshopsbackground{
+        position: absolute;
+        top: 50%;
+        /* left: 25%; */
+        right:0%;
+        transform: translate(-50%, -50%);  
+}
