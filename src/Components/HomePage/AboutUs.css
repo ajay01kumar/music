@@ -1,6 +1,8 @@
 .aboutUsHead{
     display: flex;
     justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+
 }
 .FixNow{
     font-size: 22px;

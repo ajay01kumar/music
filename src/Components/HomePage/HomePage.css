@@ -21,7 +21,7 @@
 .centeredFindshopsbackground{
         position: absolute;
         top: 50%;
-        /* left: 25%; */
+        /* left: 80%; */
         right:0%;
-        transform: translate(-50%, -50%);  
+        transform: translate(-20%, -50%);  
 }

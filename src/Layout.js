@@ -16,7 +16,7 @@ export default function Layout() {
                     <Header />
                 </Grid>
                 <Grid item xs={12}>
-                    <main style={{ marginTop: "65px" }}>
+                    <main >
                         <Routes>
                             <Route path="/" element={<HomePage />}></Route>
                             <Route path="/Home" element={<HomePage />}></Route>

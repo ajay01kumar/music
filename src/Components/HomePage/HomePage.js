@@ -29,7 +29,7 @@ export default function HomePage() {
                             <Typography  > Find Local, trustworthy </Typography>
                         </Grid>
                         <Grid item xs={12} sm={12} lg={12} xl={12}>
-                            <Button style={{  backgroundColor: "#0051f8"}} variant='contained'>Get App</Button>
+                            <Button style={{ backgroundColor: "#0051f8" }} variant='contained'>Get App</Button>
                         </Grid>
                     </Grid>
                     {/* <div class="centered">Centered</div> */}
@@ -37,19 +37,27 @@ export default function HomePage() {
                 </Grid>
                 <Grid item xs={12} sm={12} lg={12} xl={12} className='containerFindshopsbackground'>
                     <img width="100%" alt='findshopsbackground' src={findshopsbackground}></img>
-                    <Grid className="centeredFindshopsbackground">
+                    <Grid
+                        sx={{
+                            // width: 1 / 4,
+                            // p: 1,
+                            fontSize: '0.875rem',
+                            // fontWeight: '700',
+                            // textAlign: 'center',
+                        }}
+                        className="centeredFindshopsbackground">
                         <Grid item xs={12} sm={12} lg={12} xl={12}>
-                            <Typography sx={{ fontSize: 28 }} > <span className='letsGetStarted'>“</span>Experienced
+                            <Typography sx={{ fontSize: 26 }} > <span className='letsGetStarted'>“</span>Experienced
                                 <div>
                                     Mechanics<span className='letsGetStarted'>”</span> </div></Typography>
                         </Grid>
                         <Grid item xs={12} sm={12} lg={12} xl={12}>
-                            <p> Choose a mechanic of</p>
-                            <p> your choice from dozens</p>
-                            <p>   of local shops near you. </p>
+                            <div> Choose a mechanic of</div>
+                            <div> your choice from dozens</div>
+                            <div>   of local shops near you. </div>
                         </Grid>
                         <Grid item xs={12} sm={12} lg={12} xl={12}>
-                            <Button style={{  backgroundColor: "#0051f8"}} variant='contained'>FIND SHOPS NEAR YOU
+                            <Button size='small' style={{ backgroundColor: "#0051f8" }} variant='contained'>FIND SHOPS NEAR YOU
                             </Button>
                         </Grid>
                     </Grid>
@@ -60,7 +68,7 @@ export default function HomePage() {
 
                 <Grid item xs={12} sm={12} lg={12} xl={12}>
                     <Paper>
-                    <AboutUs />
+                        <AboutUs />
                     </Paper>
                 </Grid>
                 <Grid item xs={12} sm={12} lg={12} xl={12}>
